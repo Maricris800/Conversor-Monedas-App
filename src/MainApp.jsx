@@ -1,5 +1,6 @@
 import React from 'react';
 import { CurrencyConverter } from './components/CurrencyConverter';
+import "./index.css";
 
 
 // Main App component (renders CurrencyConverter)
